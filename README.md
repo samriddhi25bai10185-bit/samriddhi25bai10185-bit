@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Samriddhi Kesarwani
 
-<!--
-**samriddhi25bai10185-bit/samriddhi25bai10185-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech Computer Science Engineering (AI & ML) Student<br>  
+VIT Bhopal University
 
-Here are some ideas to get you started:
+## 🚀About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about Programming, AI, and Problem Solving<br>
+Currently learning: C++<br>
+Goal: Become a skilled Software Engineer<br>
+
+
+## 🔧 Skills & Tools
+
+-  Languages: Python<br>  
+-  Core: Data Structures, Algorithms (Learning Phase)<br>  
+-  Web: HTML <br>
+-  Tools: Git, GitHub, VS Code <br>
+
+ ## 🎯 Goals
+
+- Become a skilled Software Engineer  
+- Achieve strong command over DSA and problem-solving  
+- Build impactful and practical projects  
+- Contribute to open source and collaborate with developers  
+- Stay consistent with coding and continuous learning  
+
+
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/samriddhi-kesarwani-479462370
+- Email: samriddhi.25bai10185@vitbhopal.ac.in
+
+
+## ⚡ Fun Fact
+
+I’m on a journey to build strong problem-solving skills and grow every day 
