@@ -1,38 +1,26 @@
-# Hi there 👋, I'm Samriddhi Kesarwani
+Hi there 👋, I'm Samriddhi Kesarwani
+BTech CSE (AI & ML) Student at VIT Bhopal University
 
-BTech Computer Science Engineering (AI & ML) Student<br>  
-VIT Bhopal University
+🚀 About Me
+Passionate about Frontend Development, UI/UX, and Problem Solving.
+Currently building projects using CSS and JavaScript while learning C++ and exploring new technologies.
+I enjoy creating clean, responsive, and user-friendly web experiences.
 
-## 🚀About me
+💻 Skills & Tools
+Languages: JavaScript, Python
+Frontend: HTML, CSS, JavaScript
+Core: Data Structures & Algorithms
+Tools: Git, GitHub, VS Code, Figma
 
-Passionate about Programming, AI, and Problem Solving<br>
-Currently learning: C++<br>
-Goal: Become a skilled Software Engineer<br>
+🎯 Goals
+• Become a skilled Software Engineer
+• Build impactful real-world projects
+• Strengthen problem-solving and development skills
+• Contribute to open source and collaborate with developers
+• Keep learning and growing consistently
 
-
-## 🔧 Skills & Tools
-
--  Languages: Python<br>  
--  Core: Data Structures, Algorithms (Learning Phase)<br>  
--  Web: HTML <br>
--  Tools: Git, GitHub, VS Code <br>
-
- ## 🎯 Goals
-
-- Become a skilled Software Engineer  
-- Achieve strong command over DSA and problem-solving  
-- Build impactful and practical projects  
-- Contribute to open source and collaborate with developers  
-- Stay consistent with coding and continuous learning  
+📫 Connect With Me
+LinkedIn: [www.linkedin.com/in/samriddhi-kesarwani-479462370](http://www.linkedin.com/in/samriddhi-kesarwani-479462370)
+Email: [samriddhi.25bai10185@vitbhopal.ac.in](mailto:samriddhi.25bai10185@vitbhopal.ac.in)
 
 
-
-## 📫 Connect with Me
-
-- LinkedIn: www.linkedin.com/in/samriddhi-kesarwani-479462370
-- Email: samriddhi.25bai10185@vitbhopal.ac.in
-
-
-## ⚡ Fun Fact
-
-I’m on a journey to build strong problem-solving skills and grow every day 
