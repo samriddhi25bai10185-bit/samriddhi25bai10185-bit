@@ -10,14 +10,7 @@ I enjoy creating clean, responsive, and user-friendly web experiences.
 ## 💻 Skills & Tools  
 - Languages:  Python  
 - Frontend: HTML, CSS, JavaScript 
-- Tools: Git, GitHub, VS Code, Figma  
-
-## 🎯 Goals  
-- Become a skilled Software Engineer  
-- Build impactful real-world projects  
-- Strengthen problem-solving and development skills  
-- Contribute to open source and collaborate with developers  
-- Keep learning and growing consistently  
+- Tools: Git, GitHub, VS Code, Figma   
 
 ## 📫 Connect With Me  
 - LinkedIn: www.linkedin.com/in/samriddhi-kesarwani-479462370  
